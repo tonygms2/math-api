@@ -20,10 +20,12 @@ Here is an example of how to use this API:
 GET /math?a=5&b=3
 
 {
-  "addition": 8,
-  "subtraction": 2,
-  "division": 1.6666666666666667,
-  "multiplication": 15
+    "arg1": 5,
+    "arg2": 3,
+    "addition": 8,
+    "subtraction": 2,
+    "multiplicition": 15,
+    "divsion": 1.6666666666666667
 }
 ```
 🤖 Built With
